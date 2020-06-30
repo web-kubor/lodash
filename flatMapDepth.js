@@ -1,5 +1,6 @@
 import baseFlatten from './.internal/baseFlatten.js'
 import map from './map.js'
+//  lodash
 
 /**
  * This method is like `flatMap` except that it recursively flattens the
